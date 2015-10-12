@@ -17,6 +17,46 @@ section:nth-child(even){
 }
 
 .section-body h3{
-    line-height:1.2em;
+    line-height:1.6em;
 }
 
+.campaign-item img{
+    margin:30px auto;
+}
+
+.campaign-item{
+    text-align:center;
+}
+
+
+
+.modal-body p, .modal-body ul li, .modal-body button{
+    font-size:1.4em;
+}
+
+.modal-body h2{
+    color: #4f2104;
+}
+
+#contact h2{
+    margin-bottom:80px;
+}
+
+footer{
+    background-color:#240606;
+    color:white;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+footer span.copyright{
+    font-size: 0.6em;
+}
+
+div.left-footer img{
+    margin-bottom:30px;
+}
+
+div.center-footer{
+    margin-bottom:30px;
+}
