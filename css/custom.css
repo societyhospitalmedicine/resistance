@@ -1,0 +1,18 @@
+section:nth-child(odd){
+    background-color:#f5f5f5;
+}
+
+section:nth-child(even){
+    background-color:white;
+}
+
+.section-body h2{
+    color: #4f2104;
+}
+
+.section-body h3, .section-body p{
+    color: #505050;
+    font-style: normal;
+    
+}
+
