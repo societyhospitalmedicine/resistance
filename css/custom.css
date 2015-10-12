@@ -16,3 +16,7 @@ section:nth-child(even){
     
 }
 
+.section-body h3{
+    line-height:1.2em;
+}
+
