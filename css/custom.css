@@ -6,6 +6,7 @@ section:nth-child(even){
     background-color:white;
 }
 
+
 .section-body h2{
     color: #4f2104;
 }
@@ -13,11 +14,16 @@ section:nth-child(even){
 .section-body h3, .section-body p{
     color: #505050;
     font-style: normal;
-    
+   
 }
 
-.section-body h3{
+.section-body p{
+    font-size:1.1em;
+}
+
+.section-body h3.section-subheading{
     line-height:1.6em;
+    font-size:1.3em;
 }
 
 .campaign-item img{
@@ -59,4 +65,6 @@ div.left-footer img{
 
 div.center-footer{
     margin-bottom:30px;
+    font-size:1.3em;
 }
+
