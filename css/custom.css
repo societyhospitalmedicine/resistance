@@ -1,9 +1,14 @@
+
+#header{
+    position:relative; 
+    bottom:100px;
+}
 section:nth-child(odd){
-    background-color:#f5f5f5;
+    background-color:white;
 }
 
 section:nth-child(even){
-    background-color:white;
+    background-color:#f5f5f5;
 }
 
 
