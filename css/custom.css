@@ -83,3 +83,7 @@ div.center-footer{
     margin-bottom:5000px;
 }
 
+/* additional resources*/
+p.custom-section{
+    text-align: left;
+}
