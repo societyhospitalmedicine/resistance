@@ -241,12 +241,13 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px
 }
 header .intro-text .intro-heading {
-    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: DCC-ASH;/*, Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
     text-transform: uppercase;
     font-weight: 700;
     font-size: 50px;
     line-height: 50px;
-    margin-bottom: 25px
+    margin-bottom: 25px;
+    color: rgb(165,197,209);
 }
 @media (min-width: 768px) {
     header .intro-text {
@@ -254,14 +255,15 @@ header .intro-text .intro-heading {
         padding-bottom: 200px
     }
     header .intro-text .intro-lead-in {
-        font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: DCC-ASH; /*"Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
         font-style: italic;
         font-size: 40px;
         line-height: 40px;
-        margin-bottom: 25px
+        margin-bottom: 25px;
+       
     }
     header .intro-text .intro-heading {
-        font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: DCC-ASH;/*,Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
         text-transform: uppercase;
         font-weight: 700;
         font-size: 75px;
@@ -277,7 +279,7 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     color: rgb(195,70,40);
-    font-family: 'DCC-ASH';
+    font-family: 'Helvetica Condensed';
 }
 section h3.section-subheading {
     font-size: 16px;
